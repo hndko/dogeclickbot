@@ -1,2 +1,1 @@
-# dogeclickbot
-Script-Doge-Click-Bot-Telegram
+# How To Use
